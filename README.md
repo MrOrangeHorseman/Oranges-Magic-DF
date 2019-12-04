@@ -5,6 +5,6 @@ Currently, the mod adds:
 * Geomancy - The powers of earth.
 * Hydromancy - The powers of water.
 * Aeromancy - The powers of air.
-
-Coming soon:
-* Mentalism - The powers to attack your enemies' minds.
+* Mentalism - The powers of the mind.
+* White magic - The powers of good.
+* Black magic - The powers of evil.
